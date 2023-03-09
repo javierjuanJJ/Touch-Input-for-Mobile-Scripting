@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c272b7af-39b6-4ee0-8743-afe0904a2f5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MultiTouchDisplay.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Touch Input for Mobile Scripting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touch Input for Mobile Scripting/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
@@ -10,6 +11,10 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://E:/Material/Laboral/Unity/Touch Input for Mobile Scripting/Touch Input for Mobile Scripting/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiTouchDisplay.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,7 +93,8 @@
       <option name="presentableId" value="Default" />
       <updated>1678187505037</updated>
       <workItem from="1678187506032" duration="564000" />
-      <workItem from="1678265130787" duration="325000" />
+      <workItem from="1678265130787" duration="398000" />
+      <workItem from="1678361532681" duration="863000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1 1. Reading the Touch Phase">
       <created>1678188059705</created>
@@ -97,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678188059705</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit 2 Virtual control">
+      <created>1678265538778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678265538778</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,10 +119,22 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Commit 1 1. Reading the Touch Phase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 1 1. Reading the Touch Phase" />
+    <MESSAGE value="Commit 2 Virtual control" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 2 Virtual control" />
   </component>
 </project>
