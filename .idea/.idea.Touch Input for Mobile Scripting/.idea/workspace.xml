@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c272b7af-39b6-4ee0-8743-afe0904a2f5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MultiTouchDisplay.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Touch Input for Mobile Scripting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touch Input for Mobile Scripting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
-    </list>
+    <list default="true" id="c272b7af-39b6-4ee0-8743-afe0904a2f5b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +89,7 @@
       <updated>1678187505037</updated>
       <workItem from="1678187506032" duration="564000" />
       <workItem from="1678265130787" duration="398000" />
-      <workItem from="1678361532681" duration="863000" />
+      <workItem from="1678361532681" duration="888000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1 1. Reading the Touch Phase">
       <created>1678188059705</created>
@@ -110,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678265538778</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit 3 Multi touch">
+      <created>1678362664232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678362664232</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +137,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Commit 1 1. Reading the Touch Phase" />
     <MESSAGE value="Commit 2 Virtual control" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 2 Virtual control" />
+    <MESSAGE value="Commit 3 Multi touch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 3 Multi touch" />
   </component>
 </project>
